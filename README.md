@@ -1,6 +1,6 @@
 ## Welcome to Keita & Nick's Applied Analytics Project 
 
-Hi Duncan, this is our [workflow for our project] (https://drive.google.com/file/d/1WSKUeWjirDklZm_4Md1jvWOxYGtyvEtC/view?usp=sharing)
+Hi Duncan, this is our [workflow for our project](https://drive.google.com/file/d/1WSKUeWjirDklZm_4Md1jvWOxYGtyvEtC/view?usp=sharing)
 
 
 Syntax highlighted code block
