@@ -1,46 +1,46 @@
-Store,Type,Size,DMA 
-13,A,219622,Los Angeles
-11,A,207499,Los Angeles
-28,A,206302,Dallas-Ft.Worth
-4,A,205863,Houston
-27,A,204184,Houston
-19,A,203819,Philadelphia
-24,A,203819,Atlanta
-31,A,203750,Atlanta
-20,A,203742,Tampa-St. Pete
-32,A,203007,Denver
-6,A,202505,Oralando-Daytona Brach-Melbourne FL
-2,A,202307,Cleveland-Akron
-14,A,200898,Dallas-Ft.Worth
-41,A,196321,Los Angeles
-39,A,184109,Chicago
-34,A,158114,Cleveland-Akron
-40,A,155083,Charlotte
-8,A,155078,San Diego
-26,A,152513,Los Angeles
-1,A,151315,Houston
-21,B,140167,Salt Lake City
-25,B,128107,Kansas City
-10,B,126512,Cleveland-Akron
-9,B,125833,Dallas-Ft.Worth
-15,B,123737,Denver
-18,B,120653,Los Angeles
-22,B,119557,Houston
-45,B,118221,Tampa-St. Pete
-23,B,114533,Philadelphia
-12,B,112238,Chicago
-35,B,103681,Austin
-29,B,93638,Chicago
-17,B,93188,Charlotte
-7,B,70713,Cleveland-Akron
-16,B,57197,Dallas-Ft.Worth
-30,C,42988,Los Angeles
-43,C,41062,San Diego
-36,A,39910,Salt Lake City
-37,C,39910,Austin
-44,C,39910,Atlanta
-33,A,39690,Atlanta
-38,C,39690,Kansas City
-42,C,39690,Los Angeles
-3,B,37392,Denver
-5,B,34875,Austin
+Store,Type,Size,DMA ,MSA
+1,A,151315,Houston,Houston
+2,A,202307,Cleveland,Cleveland
+3,B,37392,Denver,Denver
+4,A,205863,Houston,Houston
+5,B,34875,Austin,Houston
+35,B,103681,Austin,Houston
+7,B,70713,Cleveland,Cleveland
+8,A,155078,San Diego,San Diego
+9,B,125833,Dallas-Fort Worth,Dallas-Fort Worth
+10,B,126512,Cleveland,Cleveland
+11,A,207499,Los Angeles,Los Angeles
+12,B,112238,Chicago,Chicago
+13,A,219622,Los Angeles,Los Angeles
+14,A,200898,Dallas-Fort Worth,Dallas-Fort Worth
+15,B,123737,Denver,Denver
+16,B,57197,Dallas-Fort Worth,Dallas-Fort Worth
+37,C,39910,Austin,Dallas-Fort Worth
+18,B,120653,Los Angeles,Los Angeles
+19,A,203819,Philadelphia,Philadelphia
+17,B,93188,Charlotte,Atlanta
+40,A,155083,Charlotte,Atlanta
+22,B,119557,Houston,Houston
+23,B,114533,Philadelphia,Philadelphia
+24,A,203819,Atlanta,Atlanta
+25,B,128107,Kansas City,St Louis
+26,A,152513,Los Angeles,Los Angeles
+27,A,204184,Houston,Houston
+28,A,206302,Dallas-Fort Worth,Dallas-Fort Worth
+29,B,93638,Chicago,Chicago
+30,C,42988,Los Angeles,Los Angeles
+31,A,203750,Atlanta,Atlanta
+32,A,203007,Denver,Denver
+33,A,39690,Atlanta,Atlanta
+34,A,158114,Cleveland,Cleveland
+38,C,39690,Kansas City,St Louis
+6,A,202505,Orlando-Daytona Beach-Melbourne,Miami-Fort Lauderdale
+21,B,140167,Salt Lake City,Denver
+36,A,39910,Salt Lake City,Denver
+39,A,184109,Chicago,Chicago
+20,A,203742,Tampa-St Petersburg,Miami-Fort Lauderdale
+41,A,196321,Los Angeles,Los Angeles
+42,C,39690,Los Angeles,Los Angeles
+43,C,41062,San Diego,San Diego
+44,C,39910,Atlanta,Atlanta
+45,B,118221,Tampa-St Petersburg,Miami-Fort Lauderdale
