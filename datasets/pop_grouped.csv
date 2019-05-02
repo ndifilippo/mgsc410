@@ -1,0 +1,1108 @@
+State,city_state,County,DMA,year,population
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2012,119985
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2011,118760
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2010,117794
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2009,117180
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2008,116260
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2007,116149
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2006,115734
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2005,115572
+" TX","Abilene, TX",TAYLOR,Abilene-Sweetwater,2004,115305
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2012,554888
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2011,551723
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2010,547092
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2009,529219
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2008,523240
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2007,517162
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2006,508486
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2005,497543
+" NM","Albuquerque, NM",BERNALILLO,"Albuquerque-Santa Fe",2004,486319
+" TX","Amarillo, TX",POTTER,Amarillo,2012,195754
+" TX","Amarillo, TX",POTTER,Amarillo,2011,193972
+" TX","Amarillo, TX",POTTER,Amarillo,2010,191335
+" TX","Amarillo, TX",POTTER,Amarillo,2009,189392
+" TX","Amarillo, TX",POTTER,Amarillo,2008,187068
+" TX","Amarillo, TX",POTTER,Amarillo,2007,185580
+" TX","Amarillo, TX",POTTER,Amarillo,2006,184323
+" TX","Amarillo, TX",POTTER,Amarillo,2005,182300
+" TX","Amarillo, TX",POTTER,Amarillo,2004,180091
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2012,298613
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2011,296333
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2010,293405
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2009,286174
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2008,280471
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2007,278504
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2006,279935
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2005,276863
+" AK","Anchorage, AK",ANCHORAGE,Anchorage,2004,274852
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2012,118951
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2011,117205
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2010,116215
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2009,114983
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2008,113812
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2007,112163
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2006,110247
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2005,107836
+" GA","Athens-Clarke County, GA",Athens-Clarke,"ATLANTA (GA)",2004,108043
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2012,197156
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2011,195828
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2010,196222
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2009,194343
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2008,193949
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2007,192069
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2006,192029
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2005,191753
+" GA","Augusta Richmond County, GA","Augusta Richmond County",Augusta,2004,192890
+" TX","Austin, TX",TRAVIS,Austin,2012,865184
+" TX","Austin, TX",TRAVIS,Austin,2011,839168
+" TX","Austin, TX",TRAVIS,Austin,2010,815974
+" TX","Austin, TX",TRAVIS,Austin,2009,786386
+" TX","Austin, TX",TRAVIS,Austin,2008,767201
+" TX","Austin, TX",TRAVIS,Austin,2007,749120
+" TX","Austin, TX",TRAVIS,Austin,2006,730729
+" TX","Austin, TX",TRAVIS,Austin,2005,708293
+" TX","Austin, TX",TRAVIS,Austin,2004,696384
+" CA","Bakersfield, CA",KERN,Bakersfield,2012,358106
+" CA","Bakersfield, CA",KERN,Bakersfield,2011,353581
+" CA","Bakersfield, CA",KERN,Bakersfield,2010,348930
+" CA","Bakersfield, CA",KERN,Bakersfield,2009,324463
+" CA","Bakersfield, CA",KERN,Bakersfield,2008,318701
+" CA","Bakersfield, CA",KERN,Bakersfield,2007,312454
+" CA","Bakersfield, CA",KERN,Bakersfield,2006,303082
+" CA","Bakersfield, CA",KERN,Bakersfield,2005,291553
+" CA","Bakersfield, CA",KERN,Bakersfield,2004,279717
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2012,622705
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2011,620792
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2010,621180
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2009,637418
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2008,638091
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2007,640150
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2006,640961
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2005,640064
+" MD","Baltimore, MD","BALTIMORE CITY",Baltimore,2004,641004
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2012,229997
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2011,228958
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2010,229602
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2009,225388
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2008,224983
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2007,226683
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2006,229947
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2005,221997
+" LA","Baton Rouge, LA","EAST BATON ROUGE","Baton Rouge",2004,223988
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2012,116904
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2011,117814
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2010,117371
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2009,110110
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2008,109962
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2007,109654
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2006,108376
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2005,111110
+" TX","Beaumont, TX",JEFFERSON,"Beaumont-Port Arthur",2004,111750
+" MT","Billings, MT",YELLOWSTONE,Billings,2012,107102
+" MT","Billings, MT",YELLOWSTONE,Billings,2011,105603
+" MT","Billings, MT",YELLOWSTONE,Billings,2010,104539
+" MT","Billings, MT",YELLOWSTONE,Billings,2009,105845
+" MT","Billings, MT",YELLOWSTONE,Billings,2008,103959
+" MT","Billings, MT",YELLOWSTONE,Billings,2007,101798
+" MT","Billings, MT",YELLOWSTONE,Billings,2006,100185
+" MT","Billings, MT",YELLOWSTONE,Billings,2005,98656
+" MT","Billings, MT",YELLOWSTONE,Billings,2004,96894
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2012,211217
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2011,211915
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2010,212026
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2009,230131
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2008,230228
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2007,230618
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2006,231368
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2005,232137
+" AL","Birmingham, AL",JEFFERSON,Birmingham,2004,233540
+" ID","Boise City, ID","Boise City",Boise,2012,212254
+" ID","Boise City, ID","Boise City",Boise,2011,209267
+" ID","Boise City, ID","Boise City",Boise,2010,206355
+" ID","Boise City, ID","Boise City",Boise,2009,205707
+" ID","Boise City, ID","Boise City",Boise,2008,204778
+" ID","Boise City, ID","Boise City",Boise,2007,202566
+" ID","Boise City, ID","Boise City",Boise,2006,200228
+" ID","Boise City, ID","Boise City",Boise,2005,200163
+" ID","Boise City, ID","Boise City",Boise,2004,199125
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2012,642031
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2011,630286
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2010,620623
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2009,645169
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2008,636748
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2007,622748
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2006,612192
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2005,609690
+" MA","Boston, MA",SUFFOLK,Boston-Manchester,2004,607367
+" NY","Buffalo, NY",ERIE,Buffalo,2012,259947
+" NY","Buffalo, NY",ERIE,Buffalo,2011,260541
+" NY","Buffalo, NY",ERIE,Buffalo,2010,261220
+" NY","Buffalo, NY",ERIE,Buffalo,2009,270240
+" NY","Buffalo, NY",ERIE,Buffalo,2008,271220
+" NY","Buffalo, NY",ERIE,Buffalo,2007,272492
+" NY","Buffalo, NY",ERIE,Buffalo,2006,274740
+" NY","Buffalo, NY",ERIE,Buffalo,2005,277998
+" NY","Buffalo, NY",ERIE,Buffalo,2004,281757
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2012,128129
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2011,127870
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2010,126597
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2009,127764
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2008,127202
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2007,126132
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2006,124717
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2005,123965
+" IA","Cedar Rapids, IA",LINN,"Cedar Rapids-Waterloo-Iowa City-Dubuque",2004,122932
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2012,117323
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2011,117160
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2010,116578
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2009,118033
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2008,117456
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2007,117090
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2006,116476
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2005,115652
+" IL","Springfield, IL",SANGAMON,Champaign-Springfield-Decatur,2004,114874
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2012,125413
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2011,123036
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2010,120589
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2009,115638
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2008,113511
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2007,111682
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2006,111055
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2005,109786
+" SC","Charleston, SC",CHARLESTON,"Charleston (SC)",2004,108110
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2012,774707
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2011,756102
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2010,738678
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2009,704422
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2008,687971
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2007,669690
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2006,652202
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2005,631160
+" NC","Charlotte, NC",MECKLENBURG,Charlotte,2004,614446
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2012,173872
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2011,172075
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2010,170655
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2009,171350
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2008,170819
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2007,169847
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2006,168293
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2005,165927
+" TN","Chattanooga, TN",HAMILTON,Chattanooga,2004,164077
+" IL","Aurora, IL",DUPAGE,Chicago,2012,199826
+" IL","Aurora, IL",DUPAGE,Chicago,2011,199292
+" IL","Aurora, IL",DUPAGE,Chicago,2010,198190
+" IL","Aurora, IL",DUPAGE,Chicago,2009,172950
+" IL","Aurora, IL",DUPAGE,Chicago,2008,170765
+" IL","Aurora, IL",DUPAGE,Chicago,2007,169010
+" IL","Aurora, IL",DUPAGE,Chicago,2006,167372
+" IL","Aurora, IL",DUPAGE,Chicago,2005,165787
+" IL","Aurora, IL",DUPAGE,Chicago,2004,164750
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2012,296788
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2011,296109
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2010,296906
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2009,333012
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2008,333170
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2007,333321
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2006,332185
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2005,331310
+" OH","Cincinnati, OH",HAMILTON,Cincinnati,2004,331717
+" OH","Akron, OH",SUMMIT,Cleveland,2012,198704
+" OH","Akron, OH",SUMMIT,Cleveland,2011,198969
+" OH","Akron, OH",SUMMIT,Cleveland,2010,198972
+" OH","Akron, OH",SUMMIT,Cleveland,2009,207209
+" OH","Akron, OH",SUMMIT,Cleveland,2008,207872
+" OH","Akron, OH",SUMMIT,Cleveland,2007,208877
+" OH","Akron, OH",SUMMIT,Cleveland,2006,209470
+" OH","Akron, OH",SUMMIT,Cleveland,2005,210527
+" OH","Akron, OH",SUMMIT,Cleveland,2004,211584
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2012,434576
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2011,428031
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2010,420644
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2009,399827
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2008,397317
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2007,399751
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2006,398778
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2005,393804
+" CO","Colorado Springs, CO","EL PASO","Colorado Springs-Pueblo",2004,388097
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2012,131912
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2011,131284
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2010,130430
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2009,129333
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2008,127849
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2007,125963
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2006,123511
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2005,123856
+" SC","Columbia, SC",RICHLAND,"Columbia (SC)",2004,126529
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2012,113568
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2011,111382
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2010,109436
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2009,102324
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2008,100976
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2007,99405
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2006,97202
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2005,94211
+" MO","Columbia,MO",Columbia,"Columbia-Jefferson City",2004,91712
+" OH","Columbus, OH",FRANKLIN,Columbus,2012,811251
+" OH","Columbus, OH",FRANKLIN,Columbus,2011,799663
+" OH","Columbus, OH",FRANKLIN,Columbus,2010,790694
+" OH","Columbus, OH",FRANKLIN,Columbus,2009,769332
+" OH","Columbus, OH",FRANKLIN,Columbus,2008,759360
+" OH","Columbus, OH",FRANKLIN,Columbus,2007,750700
+" OH","Columbus, OH",FRANKLIN,Columbus,2006,744473
+" OH","Columbus, OH",FRANKLIN,Columbus,2005,738782
+" OH","Columbus, OH",FRANKLIN,Columbus,2004,735971
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2012,200195
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2011,195357
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2010,191124
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2009,190414
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2008,186646
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2007,186613
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2006,191528
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2005,188485
+" GA","Columbus, GA",MUSCOGEE,"Columbus (GA)",2004,186691
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2012,312469
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2011,308124
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2010,305382
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2009,287439
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2008,284845
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2007,283445
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2006,283133
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2005,281290
+" TX","Corpus Christi, TX",NUECES,"Corpus Christi",2004,279317
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2012,376325
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2011,370827
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2010,366201
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2009,380085
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2008,374793
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2007,369452
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2006,365654
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2005,361043
+" TX","Arlington, TX",TARRANT,"Dallas-Fort Worth",2004,357609
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2012,101445
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2011,100540
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2010,99946
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2009,101335
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2008,100181
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2007,98814
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2006,98812
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2005,98282
+" IA","Davenport, IA",SCOTT,"Davenport-Rock Island-Moline",2004,97880
+" OH","Dayton, OH",MONTGOMERY,Dayton,2012,141789
+" OH","Dayton, OH",MONTGOMERY,Dayton,2011,141880
+" OH","Dayton, OH",MONTGOMERY,Dayton,2010,142308
+" OH","Dayton, OH",MONTGOMERY,Dayton,2009,153843
+" OH","Dayton, OH",MONTGOMERY,Dayton,2008,154557
+" OH","Dayton, OH",MONTGOMERY,Dayton,2007,155520
+" OH","Dayton, OH",MONTGOMERY,Dayton,2006,156740
+" OH","Dayton, OH",MONTGOMERY,Dayton,2005,158291
+" OH","Dayton, OH",MONTGOMERY,Dayton,2004,159835
+" CO","Arvada, CO",JEFFERSON,Denver,2012,109790
+" CO","Arvada, CO",JEFFERSON,Denver,2011,107652
+" CO","Arvada, CO",JEFFERSON,Denver,2010,106697
+" CO","Arvada, CO",JEFFERSON,Denver,2009,108208
+" CO","Arvada, CO",JEFFERSON,Denver,2008,107390
+" CO","Arvada, CO",JEFFERSON,Denver,2007,106133
+" CO","Arvada, CO",JEFFERSON,Denver,2006,104311
+" CO","Arvada, CO",JEFFERSON,Denver,2005,103040
+" CO","Arvada, CO",JEFFERSON,Denver,2004,101894
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2012,206975
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2011,205991
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2010,204573
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2009,200538
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2008,197639
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2007,195701
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2006,194880
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2005,194362
+" IA","Des Moines, IA",POLK,"Des Moines-Ames",2004,193574
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2012,115648
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2011,115208
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2010,114030
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2009,112920
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2008,112042
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2007,114673
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2006,114260
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2005,114334
+" MI","Ann Arbor, MI",WASHTENAW,Detroit,2004,114977
+" TX","El Paso, TX","EL PASO","El Paso",2012,676401
+" TX","El Paso, TX","EL PASO","El Paso",2011,665726
+" TX","El Paso, TX","EL PASO","El Paso",2010,651685
+" TX","El Paso, TX","EL PASO","El Paso",2009,620456
+" TX","El Paso, TX","EL PASO","El Paso",2008,609248
+" TX","El Paso, TX","EL PASO","El Paso",2007,600402
+" TX","El Paso, TX","EL PASO","El Paso",2006,595980
+" TX","El Paso, TX","EL PASO","El Paso",2005,587400
+" TX","El Paso, TX","EL PASO","El Paso",2004,582952
+" OR","Eugene, OR",LANE,Eugene,2012,157993
+" OR","Eugene, OR",LANE,Eugene,2011,157344
+" OR","Eugene, OR",LANE,Eugene,2010,156539
+" OR","Eugene, OR",LANE,Eugene,2009,153272
+" OR","Eugene, OR",LANE,Eugene,2008,152162
+" OR","Eugene, OR",LANE,Eugene,2007,150737
+" OR","Eugene, OR",LANE,Eugene,2006,146955
+" OR","Eugene, OR",LANE,Eugene,2005,144691
+" OR","Eugene, OR",LANE,Eugene,2004,143094
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2012,120210
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2011,120180
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2010,120118
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2009,116584
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2008,116224
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2007,116445
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2006,116238
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2005,116009
+" IN-KY","Evansville, IN-KY",Evansville,Evansville,2004,117078
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2012,100469
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2011,101393
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2010,102209
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2009,111475
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2008,112857
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2007,114449
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2006,115821
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2005,117271
+" MI","Flint, MI",GENESEE,"Flint-Saginaw-Bay City",2004,118596
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2012,161194
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2011,157664
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2010,154795
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2009,154202
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2008,154818
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2007,154778
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2006,149267
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2005,138808
+" FL","Cape Coral, FL",LEE,"Fort Myers-Naples",2004,127269
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2012,254915
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2011,254636
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2010,253849
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2009,255890
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2008,254143
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2007,253194
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2006,251167
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2005,249762
+" IN","Fort Wayne, IN",ALLEN,"Fort Wayne",2004,250047
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2012,505882
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2011,501149
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2010,497017
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2009,479918
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2008,472949
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2007,465669
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2006,460165
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2005,456574
+" CA","Fresno, CA",FRESNO,Fresno-Visalia,2004,453517
+" FL","Gainesville, FL",ALACHUA,Gainesville,2012,126311
+" FL","Gainesville, FL",ALACHUA,Gainesville,2011,125731
+" FL","Gainesville, FL",ALACHUA,Gainesville,2010,124701
+" FL","Gainesville, FL",ALACHUA,Gainesville,2009,116616
+" FL","Gainesville, FL",ALACHUA,Gainesville,2008,116085
+" FL","Gainesville, FL",ALACHUA,Gainesville,2007,115373
+" FL","Gainesville, FL",ALACHUA,Gainesville,2006,114424
+" FL","Gainesville, FL",ALACHUA,Gainesville,2005,113120
+" FL","Gainesville, FL",ALACHUA,Gainesville,2004,112396
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2012,190713
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2011,189090
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2010,188054
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2009,193710
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2008,193159
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2007,193082
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2006,192935
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2005,193289
+" MI","Grand Rapids, MI",KENT,"Grand Rapids-Kalamazoo-Battle Creek",2004,194299
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2012,104831
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2011,104391
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2010,103993
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2009,101412
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2008,100885
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2007,100811
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2006,100719
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2005,101027
+" WI","Green Bay, WI",BROWN,"Green Bay-Appleton",2004,101106
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2012,276438
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2011,272553
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2010,269514
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2009,255124
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2008,251179
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2007,245767
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2006,240533
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2005,236449
+" NC","Greensboro, NC",GUILFORD,"Greensboro-High Point-Winston-Salem",2004,233359
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2012,180256
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2011,178525
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2010,175642
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2009,176859
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2008,173700
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2007,170597
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2006,167599
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2005,164157
+" TX","Brownsville, TX",CAMERON,Harlingen-Weslaco-Brownsville-McAllen,2004,160488
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2012,147013
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2011,146244
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2010,144911
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2009,137298
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2008,136666
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2007,136027
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2006,136286
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2005,137364
+" CT","Bridgeport, CT",FAIRFIELD,"Hartford-New Haven",2004,138183
+" HI","Honolulu, HI",HONOLULU,Honolulu,2012,345639
+" HI","Honolulu, HI",HONOLULU,Honolulu,2011,342169
+" HI","Honolulu, HI",HONOLULU,Honolulu,2010,338680
+" HI","Honolulu, HI",HONOLULU,Honolulu,2009,374658
+" HI","Honolulu, HI",HONOLULU,Honolulu,2008,373295
+" HI","Honolulu, HI",HONOLULU,Honolulu,2007,373283
+" HI","Honolulu, HI",HONOLULU,Honolulu,2006,375425
+" HI","Honolulu, HI",HONOLULU,Honolulu,2005,375111
+" HI","Honolulu, HI",HONOLULU,Honolulu,2004,374581
+" TX","Houston, TX",HARRIS,Houston,2012,2177376
+" TX","Houston, TX",HARRIS,Houston,2011,2142221
+" TX","Houston, TX",HARRIS,Houston,2010,2114761
+" TX","Houston, TX",HARRIS,Houston,2009,2257926
+" TX","Houston, TX",HARRIS,Houston,2008,2238183
+" TX","Houston, TX",HARRIS,Houston,2007,2206573
+" TX","Houston, TX",HARRIS,Houston,2006,2169248
+" TX","Houston, TX",HARRIS,Houston,2005,2076189
+" TX","Houston, TX",HARRIS,Houston,2004,2058645
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2012,183715
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2011,182205
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2010,180869
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2009,179652
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2008,176539
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2007,171180
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2006,168088
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2005,166321
+" AL","Huntsville, AL",MADISON,Huntsville-Decatur,2004,164570
+" IN","Indianapolis, IN",MARION,Indianapolis,2012,834673
+" IN","Indianapolis, IN",MARION,Indianapolis,2011,827400
+" IN","Indianapolis, IN",MARION,Indianapolis,2010,821632
+" IN","Indianapolis, IN",MARION,Indianapolis,2009,807584
+" IN","Indianapolis, IN",MARION,Indianapolis,2008,800730
+" IN","Indianapolis, IN",MARION,Indianapolis,2007,796611
+" IN","Indianapolis, IN",MARION,Indianapolis,2006,792619
+" IN","Indianapolis, IN",MARION,Indianapolis,2005,789250
+" IN","Indianapolis, IN",MARION,Indianapolis,2004,787198
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2012,837790
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2011,829696
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2010,823280
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2009,813518
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2008,809891
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2007,805325
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2006,798494
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2005,786938
+" FL","Jacksonville, FL",DUVAL,Jacksonville,2004,778078
+" MO","Independence, MO",JACKSON,"Kansas City",2012,117243
+" MO","Independence, MO",JACKSON,"Kansas City",2011,116805
+" MO","Independence, MO",JACKSON,"Kansas City",2010,116855
+" MO","Independence, MO",JACKSON,"Kansas City",2009,121180
+" MO","Independence, MO",JACKSON,"Kansas City",2008,121212
+" MO","Independence, MO",JACKSON,"Kansas City",2007,120942
+" MO","Independence, MO",JACKSON,"Kansas City",2006,119828
+" MO","Independence, MO",JACKSON,"Kansas City",2005,118967
+" MO","Independence, MO",JACKSON,"Kansas City",2004,117921
+" TN","Knoxville, TN",KNOX,Knoxville,2012,182129
+" TN","Knoxville, TN",KNOX,Knoxville,2011,180608
+" TN","Knoxville, TN",KNOX,Knoxville,2010,178967
+" TN","Knoxville, TN",KNOX,Knoxville,2009,185100
+" TN","Knoxville, TN",KNOX,Knoxville,2008,184704
+" TN","Knoxville, TN",KNOX,Knoxville,2007,183486
+" TN","Knoxville, TN",KNOX,Knoxville,2006,181876
+" TN","Knoxville, TN",KNOX,Knoxville,2005,180140
+" TN","Knoxville, TN",KNOX,Knoxville,2004,178124
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2012,123499
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2011,122366
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2010,121510
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2009,114915
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2008,113781
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2007,113576
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2006,114222
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2005,112041
+" LA","Lafayette, LA",LAFAYETTE,"Lafayette (LA)",2004,112152
+" MI","Lansing, MI",INGHAM,Lansing,2012,114280
+" MI","Lansing, MI",INGHAM,Lansing,2011,114308
+" MI","Lansing, MI",INGHAM,Lansing,2010,114344
+" MI","Lansing, MI",INGHAM,Lansing,2009,113802
+" MI","Lansing, MI",INGHAM,Lansing,2008,114117
+" MI","Lansing, MI",INGHAM,Lansing,2007,114670
+" MI","Lansing, MI",INGHAM,Lansing,2006,115298
+" MI","Lansing, MI",INGHAM,Lansing,2005,116246
+" MI","Lansing, MI",INGHAM,Lansing,2004,117487
+" TX","Laredo, TX",WEBB,Laredo,2012,245487
+" TX","Laredo, TX",WEBB,Laredo,2011,241207
+" TX","Laredo, TX",WEBB,Laredo,2010,237059
+" TX","Laredo, TX",WEBB,Laredo,2009,226124
+" TX","Laredo, TX",WEBB,Laredo,2008,220801
+" TX","Laredo, TX",WEBB,Laredo,2007,215789
+" TX","Laredo, TX",WEBB,Laredo,2006,210841
+" TX","Laredo, TX",WEBB,Laredo,2005,205770
+" TX","Laredo, TX",WEBB,Laredo,2004,200502
+" NV","Henderson, NV",CLARK,"Las Vegas",2012,265068
+" NV","Henderson, NV",CLARK,"Las Vegas",2011,259916
+" NV","Henderson, NV",CLARK,"Las Vegas",2010,257868
+" NV","Henderson, NV",CLARK,"Las Vegas",2009,256445
+" NV","Henderson, NV",CLARK,"Las Vegas",2008,253693
+" NV","Henderson, NV",CLARK,"Las Vegas",2007,249508
+" NV","Henderson, NV",CLARK,"Las Vegas",2006,240515
+" NV","Henderson, NV",CLARK,"Las Vegas",2005,231787
+" NV","Henderson, NV",CLARK,"Las Vegas",2004,224191
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2012,305525
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2011,301291
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2010,296717
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2009,296545
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2008,292240
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2007,287263
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2006,283324
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2005,278313
+" KY","Lexington-Fayette, KY",Lexington-Fayette,Lexinton,2004,274581
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2012,265709
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2011,262431
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2010,259152
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2009,254001
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2008,250939
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2007,247789
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2006,244653
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2005,242009
+" NE","Lincoln, NE",LANCASTER,Lincoln-Hastings-Kearney,2004,239417
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2012,331645
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2011,328844
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2010,325503
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2009,340338
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2008,337152
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2007,335491
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2006,334830
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2005,337121
+" CA","Santa Ana, CA",ORANGE,"Los Angeles",2004,339319
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2012,604924
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2011,600883
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2010,597738
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2009,566503
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2008,563119
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2007,562632
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2006,559709
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2005,559855
+" KY-IN","Louisville-Jefferson County, KY-IN","Louisville-Jefferson County",Louisville,2004,558389
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2012,236262
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2011,233605
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2010,230622
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2009,225859
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2008,221248
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2007,218946
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2006,216199
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2005,213089
+" TX","Lubbock, TX",LUBBOCK,Lubbock,2004,210849
+" WI","Madison, WI",DANE,Madison,2012,240097
+" WI","Madison, WI",DANE,Madison,2011,237037
+" WI","Madison, WI",DANE,Madison,2010,233622
+" WI","Madison, WI",DANE,Madison,2009,235419
+" WI","Madison, WI",DANE,Madison,2008,231840
+" WI","Madison, WI",DANE,Madison,2007,228776
+" WI","Madison, WI",DANE,Madison,2006,225765
+" WI","Madison, WI",DANE,Madison,2005,223440
+" WI","Madison, WI",DANE,Madison,2004,221513
+" TN","Memphis, TN",SHELBY,Memphis,2012,659537
+" TN","Memphis, TN",SHELBY,Memphis,2011,655816
+" TN","Memphis, TN",SHELBY,Memphis,2010,652479
+" TN","Memphis, TN",SHELBY,Memphis,2009,676640
+" TN","Memphis, TN",SHELBY,Memphis,2008,676660
+" TN","Memphis, TN",SHELBY,Memphis,2007,679404
+" TN","Memphis, TN",SHELBY,Memphis,2006,682024
+" TN","Memphis, TN",SHELBY,Memphis,2005,680515
+" TN","Memphis, TN",SHELBY,Memphis,2004,681573
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2012,125497
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2011,123699
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2010,121434
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2009,126518
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2008,125763
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2007,125776
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2006,127739
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2005,129070
+" FL","Coral Springs, FL",BROWARD,"Miami-Fort Lauderdale",2004,128471
+Midwest,Midwest,Midwest,Midwest,2012,67336.9
+Midwest,Midwest,Midwest,Midwest,2011,67152.6
+Midwest,Midwest,Midwest,Midwest,2010,66974.7
+Midwest,Midwest,Midwest,Midwest,2009,66836.9
+Midwest,Midwest,Midwest,Midwest,2008,66595.6
+Midwest,Midwest,Midwest,Midwest,2007,66359.2
+Midwest,Midwest,Midwest,Midwest,2006,66082.1
+Midwest,Midwest,Midwest,Midwest,2005,65806.4
+Midwest,Midwest,Midwest,Midwest,2004,65587.7
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2012,599114
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2011,597570
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2010,595120
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2009,605013
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2008,604179
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2007,602656
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2006,602782
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2005,601983
+" WI","Milwaukee, WI",MILWAUKEE,Milwaukee,2004,601081
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2012,392913
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2011,388277
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2010,383083
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2009,385378
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2008,381978
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2007,378877
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2006,375766
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2005,375512
+" MN","Minneapolis, MN",HENNEPIN,"Minneapolis-St Paul",2004,375354
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2012,194848
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2011,194762
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2010,195222
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2009,193205
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2008,192769
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2007,191671
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2006,191911
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2005,190078
+" AL","Mobile, AL",MOBILE,Mobile-Pensacola,2004,191322
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2012,154334
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2011,152693
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2010,150807
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2009,144278
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2008,142705
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2007,141496
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2006,141875
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2005,143971
+" CA","Salinas, CA",MONTEREY,Monterey-Salinas,2004,146200
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2012,204534
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2011,207441
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2010,205902
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2009,202124
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2008,202601
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2007,203688
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2006,203479
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2005,200537
+" AL","Montgomery, AL",MONTGOMERY,Montgomery,2004,200419
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2012,143190
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2011,136375
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2010,133595
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2009,124565
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2008,120275
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2007,119582
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2006,114132
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2005,113421
+" TN","Clarksville, TN",MONTGOMERY,Nashville,2004,108511
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2012,370011
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2011,360779
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2010,347900
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2009,354850
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2008,336644
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2007,288113
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2006,208548
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2005,455188
+" LA","New Orleans, LA",ORLEANS,"New Orleans",2004,461915
+" NJ","Elizabeth, NJ",UNION,"New York",2012,127014
+" NJ","Elizabeth, NJ",UNION,"New York",2011,125959
+" NJ","Elizabeth, NJ",UNION,"New York",2010,125338
+" NJ","Elizabeth, NJ",UNION,"New York",2009,125285
+" NJ","Elizabeth, NJ",UNION,"New York",2008,124401
+" NJ","Elizabeth, NJ",UNION,"New York",2007,123689
+" NJ","Elizabeth, NJ",UNION,"New York",2006,123626
+" NJ","Elizabeth, NJ",UNION,"New York",2005,123582
+" NJ","Elizabeth, NJ",UNION,"New York",2004,122789
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2012,228231
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2011,225352
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2010,223520
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2009,222455
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2008,220319
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2007,219132
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2006,218647
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2005,216570
+" VA","Chesapeake, VA","CHESAPEAKE CITY","Norfolk-Newport News",2004,213247
+Northeast,Northeast,Northeast,Northeast,2012,55776.7
+Northeast,Northeast,Northeast,Northeast,2011,55600.5
+Northeast,Northeast,Northeast,Northeast,2010,55380.6
+Northeast,Northeast,Northeast,Northeast,2009,55283.7
+Northeast,Northeast,Northeast,Northeast,2008,55060.2
+Northeast,Northeast,Northeast,Northeast,2007,54879.4
+Northeast,Northeast,Northeast,Northeast,2006,54710
+Northeast,Northeast,Northeast,Northeast,2005,54598.2
+Northeast,Northeast,Northeast,Northeast,2004,54514.3
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2012,119846
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2011,113929
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2010,111246
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2009,108668
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2008,105960
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2007,103339
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2006,101038
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2005,98626
+" TX","Midland, TX",MIDLAND,Odessa-Midland,2004,97483
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2012,115867
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2011,113995
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2010,111430
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2009,109062
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2008,107316
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2007,105796
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2006,105206
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2005,101930
+" OK","Norman, OK",CLEVELAND,"Oklahoma City",2004,100683
+" NE","Omaha, NE",DOUGLAS,Omaha,2012,438188
+" NE","Omaha, NE",DOUGLAS,Omaha,2011,435178
+" NE","Omaha, NE",DOUGLAS,Omaha,2010,432672
+" NE","Omaha, NE",DOUGLAS,Omaha,2009,454731
+" NE","Omaha, NE",DOUGLAS,Omaha,2008,448050
+" NE","Omaha, NE",DOUGLAS,Omaha,2007,442452
+" NE","Omaha, NE",DOUGLAS,Omaha,2006,437523
+" NE","Omaha, NE",DOUGLAS,Omaha,2005,432148
+" NE","Omaha, NE",DOUGLAS,Omaha,2004,426549
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2012,250266
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2011,243798
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2010,239428
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2009,235860
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2008,232321
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2007,230239
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2006,224824
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2005,216501
+" FL","Orlando, FL",ORANGE,"Orlando-Daytona Beach-Melbourne",2004,209401
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2012,115662
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2011,115328
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2010,114933
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2009,115520
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2008,114200
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2007,113726
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2006,113388
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2005,112921
+" IL","Peoria, IL",PEORIA,Peoria-Bloomington,2004,112785
+" PA","Allentown, PA",LEHIGH,Philadelphia,2012,119052
+" PA","Allentown, PA",LEHIGH,Philadelphia,2011,118877
+" PA","Allentown, PA",LEHIGH,Philadelphia,2010,118191
+" PA","Allentown, PA",LEHIGH,Philadelphia,2009,107815
+" PA","Allentown, PA",LEHIGH,Philadelphia,2008,107693
+" PA","Allentown, PA",LEHIGH,Philadelphia,2007,107267
+" PA","Allentown, PA",LEHIGH,Philadelphia,2006,106899
+" PA","Allentown, PA",LEHIGH,Philadelphia,2005,106550
+" PA","Allentown, PA",LEHIGH,Philadelphia,2004,106245
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2012,244961
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2011,240093
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2010,236794
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2009,249535
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2008,247214
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2007,244013
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2006,240096
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2005,231698
+" AZ","Chandler, AZ",MARICOPA,Phoenix,2004,221170
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2012,306470
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2011,306132
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2010,305673
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2009,311647
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2008,312119
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2007,312322
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2006,313306
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2005,316206
+" PA","Pittsburgh, PA",ALLEGHENY,Pittsburgh,2004,320394
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2012,108794
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2011,107549
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2010,105983
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2009,102295
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2008,100769
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2007,99041
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2006,97321
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2005,96253
+" OR","Gresham, OR",MULTNOMAH,"Portland (OR)",2004,95367
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2012,178521
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2011,178243
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2010,178114
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2009,171909
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2008,171973
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2007,172229
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2006,172579
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2005,173981
+" RI","Providence, RI",PROVIDENCE,"Providence-New Bedford",2004,175521
+" NC","Cary, NC",WAKE,Raleigh-Durham,2012,145912
+" NC","Cary, NC",WAKE,Raleigh-Durham,2011,141928
+" NC","Cary, NC",WAKE,Raleigh-Durham,2010,136688
+" NC","Cary, NC",WAKE,Raleigh-Durham,2009,136637
+" NC","Cary, NC",WAKE,Raleigh-Durham,2008,129225
+" NC","Cary, NC",WAKE,Raleigh-Durham,2007,121029
+" NC","Cary, NC",WAKE,Raleigh-Durham,2006,113110
+" NC","Cary, NC",WAKE,Raleigh-Durham,2005,107353
+" NC","Cary, NC",WAKE,Raleigh-Durham,2004,103771
+" NV","Reno, NV",WASHOE,Reno,2012,230718
+" NV","Reno, NV",WASHOE,Reno,2011,228391
+" NV","Reno, NV",WASHOE,Reno,2010,226493
+" NV","Reno, NV",WASHOE,Reno,2009,219636
+" NV","Reno, NV",WASHOE,Reno,2008,217564
+" NV","Reno, NV",WASHOE,Reno,2007,214648
+" NV","Reno, NV",WASHOE,Reno,2006,210918
+" NV","Reno, NV",WASHOE,Reno,2005,206109
+" NV","Reno, NV",WASHOE,Reno,2004,200377
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2012,210921
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2011,206622
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2010,204151
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2009,204451
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2008,202867
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2007,200655
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2006,198992
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2005,197915
+" VA","Richmond, VA","RICHMOND CITY",Richmond-Petersburg,2004,197432
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2012,211137
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2011,211107
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2010,210602
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2009,207294
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2008,207348
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2007,207481
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2006,208205
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2005,209781
+" NY","Rochester, NY",MONROE,"Rochester (NY)",2004,212297
+" IL","Rockford, IL",WINNEBAGO,Rockford,2012,151013
+" IL","Rockford, IL",WINNEBAGO,Rockford,2011,151942
+" IL","Rockford, IL",WINNEBAGO,Rockford,2010,152938
+" IL","Rockford, IL",WINNEBAGO,Rockford,2009,157280
+" IL","Rockford, IL",WINNEBAGO,Rockford,2008,157266
+" IL","Rockford, IL",WINNEBAGO,Rockford,2007,156400
+" IL","Rockford, IL",WINNEBAGO,Rockford,2006,154230
+" IL","Rockford, IL",WINNEBAGO,Rockford,2005,153063
+" IL","Rockford, IL",WINNEBAGO,Rockford,2004,152968
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2012,158504
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2011,155837
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2010,153463
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2009,135285
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2008,132323
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2007,130011
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2006,128031
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2005,124495
+" CA","Elk Grove, CA",SACRAMENTO,Sacramento-Stockton-Modesto,2004,114935
+" UT","Provo, UT",UTAH,"Salt Lake City",2012,115461
+" UT","Provo, UT",UTAH,"Salt Lake City",2011,114684
+" UT","Provo, UT",UTAH,"Salt Lake City",2010,112945
+" UT","Provo, UT",UTAH,"Salt Lake City",2009,119775
+" UT","Provo, UT",UTAH,"Salt Lake City",2008,118468
+" UT","Provo, UT",UTAH,"Salt Lake City",2007,117791
+" UT","Provo, UT",UTAH,"Salt Lake City",2006,116217
+" UT","Provo, UT",UTAH,"Salt Lake City",2005,115135
+" UT","Provo, UT",UTAH,"Salt Lake City",2004,111718
+" TX","San Antonio, TX",BEXAR,"San Antonio",2012,1386305
+" TX","San Antonio, TX",BEXAR,"San Antonio",2011,1359461
+" TX","San Antonio, TX",BEXAR,"San Antonio",2010,1333953
+" TX","San Antonio, TX",BEXAR,"San Antonio",2009,1373668
+" TX","San Antonio, TX",BEXAR,"San Antonio",2008,1349274
+" TX","San Antonio, TX",BEXAR,"San Antonio",2007,1323698
+" TX","San Antonio, TX",BEXAR,"San Antonio",2006,1292082
+" TX","San Antonio, TX",BEXAR,"San Antonio",2005,1258733
+" TX","San Antonio, TX",BEXAR,"San Antonio",2004,1239011
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2012,253115
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2011,248716
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2010,244730
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2009,223739
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2008,219316
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2007,214506
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2006,210156
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2005,209483
+" CA","Chula Vista, CA","SAN DIEGO","San Diego",2004,204842
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2012,105736
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2011,104310
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2010,103118
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2009,101181
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2008,99764
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2007,98770
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2006,98350
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2005,98828
+" CA","Antioch, CA","CONTRA COSTA","San Francisco-Oakland-San Jose",2004,98939
+" GA","Savannah, GA",CHATHAM,Savannah,2012,142163
+" GA","Savannah, GA",CHATHAM,Savannah,2011,140083
+" GA","Savannah, GA",CHATHAM,Savannah,2010,136906
+" GA","Savannah, GA",CHATHAM,Savannah,2009,134699
+" GA","Savannah, GA",CHATHAM,Savannah,2008,132252
+" GA","Savannah, GA",CHATHAM,Savannah,2007,131925
+" GA","Savannah, GA",CHATHAM,Savannah,2006,130608
+" GA","Savannah, GA",CHATHAM,Savannah,2005,129780
+" GA","Savannah, GA",CHATHAM,Savannah,2004,130096
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2012,132283
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2011,130305
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2010,128337
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2009,126626
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2008,123564
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2007,121219
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2006,118161
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2005,117132
+" WA","Bellevue, WA",KING,Seattle-Tacoma,2004,116912
+" LA","Shreveport, LA",CADDO,Shreveport,2012,202131
+" LA","Shreveport, LA",CADDO,Shreveport,2011,201925
+" LA","Shreveport, LA",CADDO,Shreveport,2010,200947
+" LA","Shreveport, LA",CADDO,Shreveport,2009,199244
+" LA","Shreveport, LA",CADDO,Shreveport,2008,198924
+" LA","Shreveport, LA",CADDO,Shreveport,2007,198887
+" LA","Shreveport, LA",CADDO,Shreveport,2006,200113
+" LA","Shreveport, LA",CADDO,Shreveport,2005,197939
+" LA","Shreveport, LA",CADDO,Shreveport,2004,197797
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2012,160288
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2011,156842
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2010,154594
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2009,158008
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2008,155084
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2007,151761
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2006,148244
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2005,145095
+" SD","Sioux Falls, SD",MINNEHAHA,"Sioux Falls",2004,141488
+South,South,South,South,2012,117271.1
+South,South,South,South,2011,116039.4
+South,South,South,South,2010,114867.1
+South,South,South,South,2009,113317.9
+South,South,South,South,2008,112021
+South,South,South,South,2007,110573.4
+South,South,South,South,2006,108930.8
+South,South,South,South,2005,107411
+South,South,South,South,2004,105874
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2012,100797
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2011,100991
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2010,100994
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2009,104215
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2008,104536
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2007,104357
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2006,104633
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2005,104815
+" IN","South Bend, IN","ST JOSEPH","South Bend-Elkhart",2004,105245
+" WA","Spokane, WA",SPOKANE,Spokane,2012,209557
+" WA","Spokane, WA",SPOKANE,Spokane,2011,209025
+" WA","Spokane, WA",SPOKANE,Spokane,2010,209540
+" WA","Spokane, WA",SPOKANE,Spokane,2009,203268
+" WA","Spokane, WA",SPOKANE,Spokane,2008,202172
+" WA","Spokane, WA",SPOKANE,Spokane,2007,201045
+" WA","Spokane, WA",SPOKANE,Spokane,2006,198763
+" WA","Spokane, WA",SPOKANE,Spokane,2005,198197
+" WA","Spokane, WA",SPOKANE,Spokane,2004,198087
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2012,162224
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2011,160361
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2010,159524
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2009,157630
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2008,156304
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2007,154794
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2006,153672
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2005,152583
+" MO","Springfield, MO",GREENE,"Springfield (MO)",2004,152571
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2012,153784
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2011,153722
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2010,153580
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2009,155580
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2008,155521
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2007,151342
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2006,151833
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2005,151568
+" MA","Springfield, MA",HAMPDEN,Springfield-Holyoke,2004,151507
+" MO","St. Louis, MO","St. Louis","St Louis",2012,319083
+" MO","St. Louis, MO","St. Louis","St Louis",2011,319104
+" MO","St. Louis, MO","St. Louis","St Louis",2010,319289
+" MO","St. Louis, MO","St. Louis","St Louis",2009,356587
+" MO","St. Louis, MO","St. Louis","St Louis",2008,356730
+" MO","St. Louis, MO","St. Louis","St Louis",2007,355663
+" MO","St. Louis, MO","St. Louis","St Louis",2006,353837
+" MO","St. Louis, MO","St. Louis","St Louis",2005,352572
+" MO","St. Louis, MO","St. Louis","St Louis",2004,350705
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2012,144435
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2011,144555
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2010,145235
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2009,138560
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2008,138629
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2007,138912
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2006,139743
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2005,140939
+" NY","Syracuse, NY",ONONDAGA,Syracuse,2004,142052
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2012,187054
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2011,183449
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2010,181856
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2009,172574
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2008,171847
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2007,170366
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2006,166724
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2005,163075
+" FL","Tallahassee, FL",LEON,Tallahassee-Thomasville,2004,160699
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2012,109211
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2011,108715
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2010,108614
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2009,106081
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2008,105802
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2007,106172
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2006,107066
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2005,108275
+" FL","Clearwater, FL",PINELLAS,"Tampa-St Petersburg",2004,108706
+" OH","Toledo, OH",LUCAS,Toledo,2012,283291
+" OH","Toledo, OH",LUCAS,Toledo,2011,285450
+" OH","Toledo, OH",LUCAS,Toledo,2010,287014
+" OH","Toledo, OH",LUCAS,Toledo,2009,316179
+" OH","Toledo, OH",LUCAS,Toledo,2008,316664
+" OH","Toledo, OH",LUCAS,Toledo,2007,316851
+" OH","Toledo, OH",LUCAS,Toledo,2006,316792
+" OH","Toledo, OH",LUCAS,Toledo,2005,316970
+" OH","Toledo, OH",LUCAS,Toledo,2004,316838
+" KS","Topeka, KS",SHAWNEE,Topeka,2012,127969
+" KS","Topeka, KS",SHAWNEE,Topeka,2011,128090
+" KS","Topeka, KS",SHAWNEE,Topeka,2010,127760
+" KS","Topeka, KS",SHAWNEE,Topeka,2009,124331
+" KS","Topeka, KS",SHAWNEE,Topeka,2008,123692
+" KS","Topeka, KS",SHAWNEE,Topeka,2007,122912
+" KS","Topeka, KS",SHAWNEE,Topeka,2006,122321
+" KS","Topeka, KS",SHAWNEE,Topeka,2005,121843
+" KS","Topeka, KS",SHAWNEE,Topeka,2004,121883
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2012,526510
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2011,524974
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2010,521648
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2009,543910
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2008,540653
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2007,536752
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2006,530349
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2005,524830
+" AZ","Tucson, AZ",PIMA,"Tucson-Sierra Vista",2004,517246
+" OK","Tulsa, OK",TULSA,Tulsa,2012,394736
+" OK","Tulsa, OK",TULSA,Tulsa,2011,392861
+" OK","Tulsa, OK",TULSA,Tulsa,2010,392483
+" OK","Tulsa, OK",TULSA,Tulsa,2009,389625
+" OK","Tulsa, OK",TULSA,Tulsa,2008,385755
+" OK","Tulsa, OK",TULSA,Tulsa,2007,384592
+" OK","Tulsa, OK",TULSA,Tulsa,2006,382394
+" OK","Tulsa, OK",TULSA,Tulsa,2005,381017
+" OK","Tulsa, OK",TULSA,Tulsa,2004,382709
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2012,134739
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2011,131161
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2010,129219
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2009,119512
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2008,118843
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2007,114653
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2006,107696
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2005,105218
+" TX","Killeen, TX",BELL,Waco-Temple-Bryan,2004,101710
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2012,147227
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2011,144579
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2010,140833
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2009,150006
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2008,144579
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2007,140233
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2006,138237
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2005,137602
+" VA","Alexandria, VA","ALEXANDRIA CITY","Washington DC",2004,136635
+West,West,West,West,2012,73489.5
+West,West,West,West,2011,72787.4
+West,West,West,West,2010,72103.6
+West,West,West,West,2009,71568.1
+West,West,West,West,2008,70698
+West,West,West,West,2007,69767.9
+West,West,West,West,2006,68870.3
+West,West,West,West,2005,67937.5
+West,West,West,West,2004,67069.7
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2012,168935
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2011,167104
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2010,165381
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2009,154410
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2008,153701
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2007,150203
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2006,141387
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2005,128982
+" FL","Port St. Lucie, FL","St. Lucie","West Palm Beach-Fort Pierce",2004,117050
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2012,104834
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2011,104130
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2010,104845
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2009,101314
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2008,101393
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2007,101633
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2006,102522
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2005,102620
+" TX","Wichita Falls, TX",WICHITA,"Wichita Falls-Lawton",2004,103584
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2012,385865
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2011,383818
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2010,382872
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2009,372186
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2008,365838
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2007,360897
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2006,356592
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2005,354524
+" KS","Wichita, KS",SEDGWICK,Wichita-Hutchinson,2004,353292
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2012,109915
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2011,108243
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2010,106800
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2009,101350
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2008,100397
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2007,99477
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2006,98479
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2005,96953
+" NC","Wilmington, NC","NEW HANOVER",Wilmington,2004,94700
