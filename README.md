@@ -2,7 +2,7 @@
 
 Hi Duncan, this is our [workflow for our project](https://drive.google.com/file/d/1WSKUeWjirDklZm_4Md1jvWOxYGtyvEtC/view?usp=sharing).
 
-This is the [Dashboard made from Tableau] (https://public.tableau.com/shared/JHNYQR36C?:display_count=yes).
+This is the [Dashboard made from Tableau](https://public.tableau.com/shared/JHNYQR36C?:display_count=yes).
 
 
 Syntax highlighted code block
