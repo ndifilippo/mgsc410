@@ -1,0 +1,14 @@
+---
+title: "risk"
+output: word_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(stargazer)
+```
+
+```{r word_table, comment = ''}
+stargazer(fit, type = "text")
+
+```
+
