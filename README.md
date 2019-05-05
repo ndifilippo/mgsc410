@@ -33,19 +33,4 @@ Both supervised and unsupervised learning methods are desirable for this present
 ## Section 8: Timeline
 ![Draw.io Timetable](Timetable.png)
 
-Syntax highlighted code block
-```
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
